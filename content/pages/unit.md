@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Unit
 uid: 4d7d9296-ec45-fdca-8c2f-331b98e8cfcd
 ---
