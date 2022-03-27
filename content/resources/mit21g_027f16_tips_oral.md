@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db5d9a23-97f4-bea6-d6f2-dd063fb1c99d
 resourcetype: Document
 title: 'Asia in the Modern World: Tips for Oral Presentations'
 uid: d87a411c-1c0a-01ee-3e37-0b8c54c7453b

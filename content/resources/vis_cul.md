@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Unit
 parent_type: CourseSection
+parent_uid: 4d7d9296-ec45-fdca-8c2f-331b98e8cfcd
 resourcetype: Image
 title: MIT Visualizing Cultures
 uid: 1d2db103-6981-2b78-b6d8-ab5dd9b89391

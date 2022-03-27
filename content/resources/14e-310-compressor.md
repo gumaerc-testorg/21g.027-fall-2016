@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 8b7f2410-4b2c-8d92-73f1-f280f861748c
 resourcetype: Image
 title: 14E-310-compressor.jpg
 uid: 91c5620f-c8f6-bb0b-cf18-110bcecb63dc

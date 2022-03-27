@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db5d9a23-97f4-bea6-d6f2-dd063fb1c99d
 resourcetype: Document
 title: 'Asia in the Modern World: Tips for Effective Writing'
 uid: 647c734e-8e5a-8709-385f-43ac63be9cb4
