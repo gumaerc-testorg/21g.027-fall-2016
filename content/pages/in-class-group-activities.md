@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: In-class Group Activities
 uid: 433b5fa8-2a90-4b97-c06c-21fe8024b4a0
 ---

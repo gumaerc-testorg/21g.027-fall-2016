@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8b7f2410-4b2c-8d92-73f1-f280f861748c
 ---
@@ -63,7 +65,7 @@ _In the following videos, Professor Shigeru Miyagawa describes various aspects o
 
 *   [On Visualizing Cultures]({{< baseurl >}}/resources/on-visualizing-cultures)
 *   [Flipping the Classroom “Changed Everything”]({{< baseurl >}}/resources/flipping-the-classroom)
-*   [Using Visual Materials to Teach 21st Century Skills]({{< baseurl >}}/resources/using-visual-materials-to-teach)
+*   [Using Visual Materials to Teach 21{{< sup "st" >}} Century Skills]({{< baseurl >}}/resources/using-visual-materials-to-teach)
 *   [A Course Goal: Learning to Work in Teams]({{< baseurl >}}/resources/a-course-goal)
 *   [Collaborating with Guest Lecturers]({{< baseurl >}}/resources/collaborating-with-guest-lecturers)
 
@@ -86,20 +88,6 @@ None
 ### Offered
 
 Every fall semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A classroom with approximately thirty green armchairs.]({{< resource_file 91c5620f-c8f6-bb0b-cf18-110bcecb63dc >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Seminars were held in a medium-sized classroom that accommodated up to 36 students and was equipped with tablet armchairs, a chalkboard, and a projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

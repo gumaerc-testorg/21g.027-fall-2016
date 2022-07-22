@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 1962f38d-1ac0-4418-a20c-3293425b981a
 ---
@@ -235,7 +237,7 @@ Study \[VJx\]:
 2.  Day 23 - Tradition and Modernity
 3.  Day 24 - Gender, Labor, and the State
 
-Study \[VC\]: Selling Shiseido: Cosmetics Advertizing & Design in Early 20th Century Japan
+Study \[VC\]: Selling Shiseido: Cosmetics Advertizing & Design in Early 20{{< sup "th" >}} Century Japan
 
 1.  Introduction
 2.  Cosmopolitan Glamour
@@ -257,7 +259,7 @@ Study \[VJx\]:
 
 1.  Day 25 - Modernity, Militarism, and War
 
-Study \[VC\]: Selling Shiseido: Cosmetics Advertizing & Design in Early 20th Century Japan
+Study \[VC\]: Selling Shiseido: Cosmetics Advertizing & Design in Early 20{{< sup "th" >}} Century Japan
 
 1.  Marketing Beauty
 2.  Luxury & Thrift in Wartime
