@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: 'This page links out to the MIT Visualizing Cultures website as the materials
+  were used for the MIT course 21G.027 Asia in the Modern World: Images and Representations,
+  Fall 2016, taught by Professor Shigeru Miyagawa.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Unit
 uid: 4d7d9296-ec45-fdca-8c2f-331b98e8cfcd
 ---
 
-[![a collage art]({{< resource_file 1d2db103-6981-2b78-b6d8-ab5dd9b89391 >}})](/ans7870/21f/21f.027/home/index.html)
+{{< resource uuid="1d2db103-6981-2b78-b6d8-ab5dd9b89391" href="/ans7870/21f/21f.027/home/index.html" >}}
 
 What is Visualizing Cultures?
 -----------------------------
