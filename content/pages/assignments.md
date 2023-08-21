@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This page provides the homework assignments in the MIT course 21G.027
+  Asia in the Modern World: Images and Representations, Fall 2016, taught by Professor
+  Shigeru Miyagawa.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,8 +28,8 @@ Final Project \[10 pages + oral presentation\]
 Additional Resources
 --------------------
 
-[Tips for effective writing (PDF)]({{< baseurl >}}/resources/mit21g_027f16_tip_effctive) (Courtesy of Diane Hendrix. Used with permission.)
+{{% resource_link 647c734e-8e5a-8709-385f-43ac63be9cb4 "Tips for effective writing (PDF)" %}} (Courtesy of Diane Hendrix. Used with permission.)
 
 [Tips for revising the draft](https://writingcenter.fas.harvard.edu/pages/revising-draft)
 
-[Tips for oral presentations (PDF)]({{< baseurl >}}/resources/mit21g_027f16_tips_oral) (Courtesy of Diane Hendrix. Used with permission.)
+{{% resource_link d87a411c-1c0a-01ee-3e37-0b8c54c7453b "Tips for oral presentations (PDF)" %}} (Courtesy of Diane Hendrix. Used with permission.)
