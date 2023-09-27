@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This page provides the course policy for the MIT course 21G.027 Asia
+  in the Modern World: Images and Representations, Fall 2016, taught by Professor
+  Shigeru Miyagawa.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -48,7 +51,7 @@ A unique feature of this offering of VJ is that we will run it concurrently with
 Writing and Speaking Assignments for a Communication Intensive Course
 ---------------------------------------------------------------------
 
-Communication intensive subjects in the humanities, arts, and social sciences require at least 20 pages of writing divided among a number of assignments, at least one of which is revised and resubmitted. This class requires three papers and one final project that total at least 21 pages in length (double-spaced). The first essay will be graded and returned to you for your revision and resubmission. This resubmission will receive a grade separate from the grade on the first draft. The resubmission grade will be based _on the extent and quality of the revision_ (e.g., A B paper that is poorly revised may receive a C for the resubmission). A schedule of due dates is given in the [Calendar]({{< baseurl >}}/pages/calendar).
+Communication intensive subjects in the humanities, arts, and social sciences require at least 20 pages of writing divided among a number of assignments, at least one of which is revised and resubmitted. This class requires three papers and one final project that total at least 21 pages in length (double-spaced). The first essay will be graded and returned to you for your revision and resubmission. This resubmission will receive a grade separate from the grade on the first draft. The resubmission grade will be based _on the extent and quality of the revision_ (e.g., A B paper that is poorly revised may receive a C for the resubmission). A schedule of due dates is given in the {{% resource_link 6bd222ad-0040-9077-3be4-708b9040968f "Calendar" %}}.
 
 HASS-CI subjects also offer students substantial opportunity for oral expression, through class discussion and student presentations. This class requires all students to participate in a weekly discussion of the assigned reading and films. In addition, each student will make two formal presentations, both of which will receive written feedback and be graded. The first presentation will be on your second essay, and the second presentation on your final essay. To guarantee sufficient attention to student writing and substantial opportunity for oral expression, the number of students in this class is limited to 25 with the writing advisor.
 
