@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/e88a71cd3a9ba7a08c159ecd9d42fe9a_video_still.jpg
+file: /ol-ocw-studio-app/courses/21g-027-asia-in-the-modern-world-images-representations-fall-2016/e88a71cd3a9ba7a08c159ecd9d42fe9a_video_still.jpg
 file_size: 43322
 file_type: image/jpeg
 image_metadata:
