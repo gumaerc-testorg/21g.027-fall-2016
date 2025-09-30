@@ -28,6 +28,6 @@ Final Project \[10 pages + oral presentation\]
 
 {{% resource_link "647c734e-8e5a-8709-385f-43ac63be9cb4" "Tips for effective writing (PDF)" %}} (Courtesy of Diane Hendrix. Used with permission.)
 
-[Tips for revising the draft](https://crk.umn.edu/writing-center/how-revise-drafts)
+{{% resource_link "bfec7920-a63f-49c0-a74f-c8992d5f4275" "Tips for revising the draft" %}}
 
 {{% resource_link "d87a411c-1c0a-01ee-3e37-0b8c54c7453b" "Tips for oral presentations (PDF)" %}} (Courtesy of Diane Hendrix. Used with permission.)

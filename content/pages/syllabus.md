@@ -65,7 +65,7 @@ _You are expected to attend each class; if you can't make it, contact the instru
 Readings
 --------
 
-Unless otherwise noted, all readings are from the [MOOC](https://www.edx.org/course/visualizing-japan-1850s-1930s-harvardx-mitx-vjx-2) or [Visualizing Cultures](http://visualizingcultures.mit.edu).
+Unless otherwise noted, all readings are from the {{% resource_link "00759c0b-ac8d-45a3-85c3-873328dfbe70" "MOOC" %}} or {{% resource_link "b69111bd-18f3-4be6-8e79-8039eadbb4b3" "Visualizing Cultures" %}}.
 
 Grading
 -------
